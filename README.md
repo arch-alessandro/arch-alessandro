@@ -12,7 +12,7 @@ Tired of the limitations imposed by proprietary software, I embarked on a journe
 - **Vector Graphics**: Inkscape
 - **Image Editing**: GIMP
 
-During my transition, I learned that to achieve what I need, I must understand the tools at my disposal. The spirit of Open Source taught me just that. I improved thanks to the sharing of tutorials and guidance available online from other passionate individuals, both young and old, creating an environment of continuous learning and growth.
+During my transition, I learned that to achieve what I need I must understand the tools at my disposal. The spirit of Open Source taught me just that. I improved thanks to the sharing of tutorials and guidance available online from other passionate individuals, both young and old, creating an environment of continuous learning and growth.
 
 ## Sharing and Collaboration
 I strongly believe in the spirit of sharing. For this reason, I intend to share some of my knowledge:
